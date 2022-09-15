@@ -1,0 +1,14 @@
+C:\Users\vinic\source\p\GestaoEscolar\GestaoEscolar.Console\bin\Debug\netcoreapp3.1\GestaoEscolar.CLI.exe
+C:\Users\vinic\source\p\GestaoEscolar\GestaoEscolar.Console\bin\Debug\netcoreapp3.1\GestaoEscolar.CLI.deps.json
+C:\Users\vinic\source\p\GestaoEscolar\GestaoEscolar.Console\bin\Debug\netcoreapp3.1\GestaoEscolar.CLI.runtimeconfig.json
+C:\Users\vinic\source\p\GestaoEscolar\GestaoEscolar.Console\bin\Debug\netcoreapp3.1\GestaoEscolar.CLI.runtimeconfig.dev.json
+C:\Users\vinic\source\p\GestaoEscolar\GestaoEscolar.Console\bin\Debug\netcoreapp3.1\GestaoEscolar.CLI.dll
+C:\Users\vinic\source\p\GestaoEscolar\GestaoEscolar.Console\bin\Debug\netcoreapp3.1\GestaoEscolar.CLI.pdb
+C:\Users\vinic\source\p\GestaoEscolar\GestaoEscolar.Console\obj\Debug\netcoreapp3.1\GestaoEscolar.CLI.csproj.AssemblyReference.cache
+C:\Users\vinic\source\p\GestaoEscolar\GestaoEscolar.Console\obj\Debug\netcoreapp3.1\GestaoEscolar.CLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\source\p\GestaoEscolar\GestaoEscolar.Console\obj\Debug\netcoreapp3.1\GestaoEscolar.CLI.AssemblyInfoInputs.cache
+C:\Users\vinic\source\p\GestaoEscolar\GestaoEscolar.Console\obj\Debug\netcoreapp3.1\GestaoEscolar.CLI.AssemblyInfo.cs
+C:\Users\vinic\source\p\GestaoEscolar\GestaoEscolar.Console\obj\Debug\netcoreapp3.1\GestaoEscolar.CLI.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\p\GestaoEscolar\GestaoEscolar.Console\obj\Debug\netcoreapp3.1\GestaoEscolar.CLI.dll
+C:\Users\vinic\source\p\GestaoEscolar\GestaoEscolar.Console\obj\Debug\netcoreapp3.1\GestaoEscolar.CLI.pdb
+C:\Users\vinic\source\p\GestaoEscolar\GestaoEscolar.Console\obj\Debug\netcoreapp3.1\GestaoEscolar.CLI.genruntimeconfig.cache
